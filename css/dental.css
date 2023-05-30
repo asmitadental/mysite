@@ -1,0 +1,13 @@
+#contact .contact-item {
+    margin: 20px 0 40px 0;
+}
+/* #contact h3::after {
+    position: absolute;
+    content: "";
+    background: #d43031;
+    height: 2px;
+    width: 40px;
+    bottom: 0;
+    margin-left: -20px;
+    left: 50%;
+} */
